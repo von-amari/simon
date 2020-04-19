@@ -1,4 +1,4 @@
-# Simon Same 
+# Simon Game 
 
 Made in the Udemy course, The Complete 2020 Web Development Bootcamp.
 https://von-amari.github.io/simon/
